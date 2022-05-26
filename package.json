@@ -1,0 +1,23 @@
+{
+  "name": "minify-project",
+  "version": "1.0.0",
+  "description": "Minifies supported projects, by deleting installed modules, Eg: deletes node_modules folder to make it easier to copy files",
+  "main": "minify.js",
+  "scripts": {
+    "start": "node minify.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NeuronEnix/minify-project.git"
+  },
+  "author": "Kaushik R Bangera",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/NeuronEnix/minify-project/issues"
+  },
+  "homepage": "https://github.com/NeuronEnix/minify-project#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
