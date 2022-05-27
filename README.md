@@ -72,6 +72,4 @@ projects
 │   │   ...
 │   ...
 ```
-
-`cd` into projects directory
-run `node minify.js`
+In your terminal `cd` into projects directory run `node minify.js`
