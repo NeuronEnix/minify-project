@@ -4,7 +4,7 @@ Minifies supported projects, by deleting dependencies, Eg: In Javascript project
 <br>
 
 ## Supported Project
-- Javascript ( autot deletes node_modules )
+- Javascript ( auto deletes node_modules )
 
 <br>
 
