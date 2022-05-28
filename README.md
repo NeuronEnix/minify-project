@@ -1,10 +1,10 @@
 # Minify Project
-Minifies supported projects, by deleting installed modules, Eg: deletes node_modules folder to make it easier to copy files
+Minifies supported projects, by deleting dependencies, Eg: In Javascript projects it deletes node_modules folder to make it easier to copy files
 
 <br>
 
 ## Supported Project
-- Javascript
+- Javascript ( autot deletes node_modules )
 
 <br>
 
